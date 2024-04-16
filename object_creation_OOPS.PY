@@ -20,4 +20,10 @@ print(type(mobi_obj_2))
 print(id(mobi_obj_1))
 print(id(mobi_obj_2))
 
+print(mobi_obj_1.mobile_name)
+print(mobi_obj_1.model)
+
+print(mobi_obj_2.mobile_name)
+print(mobi_obj_2.model)
+
 
