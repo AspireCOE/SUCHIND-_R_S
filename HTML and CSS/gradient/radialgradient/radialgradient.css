@@ -1,0 +1,5 @@
+
+.radial-gradient-background-with-more-colors {
+    height: 100vh;
+    background-image: radial-gradient(red, blue, yellow, orange);
+  }
