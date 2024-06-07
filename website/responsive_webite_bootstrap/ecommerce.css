@@ -1,0 +1,16 @@
+
+
+.nav-bar-logo {
+    height: 60px;
+    width: 165px;
+}
+
+.nav-item {
+    color: black;
+    font-family: "Roboto";
+}
+
+.carosuel-container {
+    height: 70vh;
+    background-size: cover;
+} 

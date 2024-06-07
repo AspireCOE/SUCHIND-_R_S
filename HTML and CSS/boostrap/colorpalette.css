@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .color-palette-heading {
     font-size: 24px;
@@ -9,4 +10,17 @@
    .color-name {
     color: white;
     font-size: 20px;
+=======
+
+.color-palette-heading {
+    font-size: 24px;
+    text-align: center;
+   }
+   .color-box {
+    padding: 10px;
+   }
+   .color-name {
+    color: white;
+    font-size: 20px;
+>>>>>>> b8065e3 (ASPIRE)
    }

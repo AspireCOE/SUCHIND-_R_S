@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 
 .radial-gradient-background-with-more-colors {
     height: 100vh;
     background-image: radial-gradient(red, blue, yellow, orange);
+=======
+
+.radial-gradient-background-with-more-colors {
+    height: 100vh;
+    background-image: radial-gradient(red, blue, yellow, orange);
+>>>>>>> b8065e3 (ASPIRE)
   }
