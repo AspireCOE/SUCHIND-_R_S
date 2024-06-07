@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 
 let chatbotMsgList = ["Hi", "Hey", "Good Morning", "Good Evening", "How can I help you?", "Thank You"];
 
@@ -36,12 +36,11 @@ function getReplyFromChatBot() {
     userMsgEl.classList.add("msg-from-chatbot");
     msgContainerEl.appendChild(userMsgEl);
 
-=======
-
 let chatbotMsgList = ["Hi", "Hey", "Good Morning", "Good Evening", "How can I help you?", "Thank You"];
 
 let chatContainerEl = document.getElementById("chatContainer");
 let userInputEl = document.getElementById("userInput");
+}
 
 function sendMsgToChatBot() {
 
@@ -72,7 +71,5 @@ function getReplyFromChatBot() {
     let userMsgEl = document.createElement("span");
     userMsgEl.textContent = chatBotMsg;
     userMsgEl.classList.add("msg-from-chatbot");
-    msgContainerEl.appendChild(userMsgEl);
-
->>>>>>> b8065e3 (ASPIRE)
+    msgContainerEl.appendChild(userMsgEl); b8065e3 (ASPIRE)
 }
